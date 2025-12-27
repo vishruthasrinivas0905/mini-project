@@ -1,0 +1,26 @@
+{
+    "Monday": [
+        {"start": "09:00", "end": "10:00", "subject": "Mathematics"},
+        {"start": "10:00", "end": "11:00", "subject": "Physics"},
+        {"start": "11:15", "end": "12:15", "subject": "Computer Networks"}
+    ],
+    "Tuesday": [
+        {"start": "09:00", "end": "11:00", "subject": "AI Laboratory"},
+        {"start": "13:00", "end": "14:00", "subject": "Ethics in IT"}
+    ],
+    "Wednesday": [
+        {"start": "09:00", "end": "10:00", "subject": "Software Engineering"},
+        {"start": "10:00", "end": "11:00", "subject": "Database Systems"}
+    ],
+    "Thursday": [
+        {"start": "09:00", "end": "10:00", "subject": "Operating Systems"},
+        {"start": "14:00", "end": "16:00", "subject": "Seminar"}
+    ],
+    "Friday": [
+        {"start": "09:00", "end": "12:00", "subject": "Mini Project Phase 1"}
+    ],
+    "Saturday": [
+        {"start": "09:00", "end": "19:00", "subject": "Revision Class"}
+    ],
+    "Sunday": []
+}
